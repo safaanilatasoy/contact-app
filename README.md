@@ -3,8 +3,8 @@
 
 ### Screenshot
 
-<img src="desktopss.png" width="500">
-<img src="mobiless.png" width="500">
+<img src="desktopss.png">
+<img src="mobiless.png" width="300">
 
 
 ### Links
