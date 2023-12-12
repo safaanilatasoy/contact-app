@@ -9,7 +9,7 @@
 
 ### Links
 
-- Live Site URL: [https://safaanilatasoy.github.io/frontend-mentor-projects/faq-accordion/]
+- Live Site URL: []
 
 ## My process
 
